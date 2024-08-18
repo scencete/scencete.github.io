@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://scencete.github.io/sitemap.html.gz
+Sitemap: https://scencete.github.io/app/sitemap.html.gz
+Sitemap: https://scencete.github.io/assets/sitemap.html.gz
+Sitemap: https://scencete.github.io/css/sitemap.html.gz
+Sitemap: https://scencete.github.io/includes/sitemap.html.gz
+Sitemap: https://scencete.github.io/item/sitemap.html.gz
+Sitemap: https://scencete.github.io/src/sitemap.html.gz
